@@ -14,6 +14,7 @@ public class emailRecordInput extends AppCompatActivity {
         TextView step1 = (TextView) findViewById(R.id.step1);
         TextView step2 = (TextView) findViewById(R.id.step2);
         TextView step3 = (TextView) findViewById(R.id.step3);
+        TextView preview = (TextView) findViewById(R.id.preview);
         TextView rollcam = (TextView) findViewById(R.id.rollcam);
         Typeface hoopDemoBold = Typeface.createFromAsset(getAssets(), "fonts/typo-hoop.demo-bold.otf");
 
