@@ -25,7 +25,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".InputData" />
-        <activity android:name=".SendOptions"></activity>
+        <activity android:name=".SendOptions" />
+        <activity android:name=".emailRecordInput"></activity>
     </application>
 
 </manifest>
